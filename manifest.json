@@ -1,7 +1,7 @@
 {
-  "name": "iBrows",
+  "name": "eyeBrowse",
   "version": "1.0",
-  "description": "Customize your web browsing experience on Google Chrome with iBrows.",
+  "description": "Customize your web browsing experience on Google Chrome with eyeBrowse, an eyebrow navigation tool.",
     "permissions": ["tabs", "activeTab", "declarativeContent", "storage"],
     "options_page": "options.html",
     "background": {
@@ -11,18 +11,16 @@
 
     "page_action": {
         "default_popup": "popup.html",
-      "default_icon": {
-        "16": "images/get_started16.png",
-        "32": "images/get_started32.png",
-        "48": "images/get_started48.png",
-        "128": "images/get_started128.png"
-      }
+        "default_title": "eyeBrowse", 
+        "default_icon": {
+            "16": "images/eyeBrowse_favicon.png"
+        }
     },
     "icons": {
-      "16": "images/get_started16.png",
-      "32": "images/get_started32.png",
-      "48": "images/get_started48.png",
-      "128": "images/get_started128.png"
+      "16": "images/eyeBrowse_favicon.png",
+      "32": "images/eyeBrowse_favicon.png",
+      "48": "images/eyeBrowse_favicon.png",
+      "128": "images/eyeBrowse_favicon.png"
     },
   "manifest_version": 2
 }
