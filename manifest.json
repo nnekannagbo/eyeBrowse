@@ -1,8 +1,8 @@
 {
-  "name": "World Clock Extension",
+  "name": "iBrows",
   "version": "1.0",
-  "description": "World Clock Extension (coming soon)",
-    "permissions": ["activeTab", "declarativeContent", "storage"],
+  "description": "Customize your web browsing experience on Google Chrome with iBrows.",
+    "permissions": ["tabs", "activeTab", "declarativeContent", "storage"],
     "options_page": "options.html",
     "background": {
       "scripts": ["background.js"],
