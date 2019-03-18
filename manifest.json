@@ -17,10 +17,7 @@
         }
     },
     "icons": {
-      "16": "images/eyeBrowse_favicon.png",
-      "32": "images/eyeBrowse_favicon.png",
-      "48": "images/eyeBrowse_favicon.png",
-      "128": "images/eyeBrowse_favicon.png"
+      "16": "images/eyeBrowse_favicon.png"
     },
   "manifest_version": 2
 }
